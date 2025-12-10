@@ -12,9 +12,9 @@ This project aims to identify risk patterns, detect borrower groups with high de
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Screenshot](Images/Dashboard_Page1.png)  
-![Dashboard Screenshot](images/Dashboard_Page2.png)  
-![Dashboard Screenshot](images/Dashboard_Page3.png)
+![Dashboard Screenshot](image/Dashboard_Page1.png)  
+![Dashboard Screenshot](image/Dashboard_Page2.png)  
+![Dashboard Screenshot](image/Dashboard_Page3.png)
 
 ---
 
