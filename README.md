@@ -26,7 +26,7 @@ This project aims to identify risk patterns, detect borrower groups with high de
 ---
 
 ## 📂 Dataset Used
-🔗 [Loan Dataset](data/LoanData.xlsx)
+🔗 [Loan Dataset](Data/LoanData.xlsx)
 
 ---
 
